@@ -6,4 +6,4 @@ In this project, skills listed below will be showcased:
 - writing the HTML boilerplate
 - making use of headings, texts, and lists
 - adding links (absolute and relative) to pages and images
-- making proper commits
+- making proper commits and using other git commands
